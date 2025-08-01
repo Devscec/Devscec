@@ -1,11 +1,10 @@
 <h1 align="center">💀 Devsecec | Hacker Ético em Formação 🧠</h1>
 
 <p align="center">
-  <img src="https://github.com/Devsecec/Devsecec/blob/main/A_digital_graphic_design_banner_features_the_cyber.png?raw=true" width="100%" />
-</p>
-
-<p align="center">
   <b>Python | Linux | Redes | Hardening | Pentest</b>  
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Devsecec/Devsecec/main/A_digital_graphic_design_banner_features_the_cyber.png" width="100%" />
 </p>
 
 ---
