@@ -32,7 +32,7 @@ Olá! Sou o Rafael (aka **Devsecec**) — entusiasta de cibersegurança, atualme
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devsecec&show_icons=true&theme=radical" alt="Devsecec Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Devscec&show_icons=true&theme=radical" alt="Devscec Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devscec&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
@@ -43,18 +43,18 @@ Olá! Sou o Rafael (aka **Devsecec**) — entusiasta de cibersegurança, atualme
 
 | Projeto | Descrição |
 |--------|-----------|
-| [`Pix-Seguro`](https://github.com/Devsecec/Pix-Seguro) | ⚠️ Verificador de QR Codes falsos para evitar golpes Pix |
-| [`KAGM-WebSec`](https://github.com/Devsecec/KAGM-WebSec) | 🕸️ E-commerce vulnerável para treinamentos ofensivos |
-| [`NetSecScanner`](https://github.com/Devsecec/NetSecScanner) | 🔍 Scanner de rede com foco em segurança e monitoramento |
-| [`Scripts`](https://github.com/Devsecec/Scripts) | 🧰 Automação com Bash e Python para hardening e auditoria |
+| [`Pix-Seguro`](https://github.com/Devscec/Pix-Seguro) | ⚠️ Verificador de QR Codes falsos para evitar golpes Pix |
+| [`KAGM-WebSec`](https://github.com/Devscec/KAGM-WebSec) | 🕸️ E-commerce vulnerável para treinamentos ofensivos |
+| [`NetSecScanner`](https://github.com/Devscec/NetSecScanner) | 🔍 Scanner de rede com foco em segurança e monitoramento |
+| [`Scripts`](https://github.com/Devscec/Scripts) | 🧰 Automação com Bash e Python para hardening e auditoria |
 
 ---
 
 ## 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/rafael-santos-b13198234)
-[![Email](https://img.shields.io/badge/E--mail-devsecec@protonmail.com-black)](mailto:devsecec@protonmail.com)
-- GitHub: [Devsecec](https://github.com/Devsecec)
+[![Email](https://img.shields.io/badge/E--mail-devscec@protonmail.com-black)](mailto:devscec@protonmail.com)
+- GitHub: [Devsecec](https://github.com/Devscec)
 
 
 🧑‍💻 **"Todo código é uma entrada. Toda brecha é uma porta."**  
