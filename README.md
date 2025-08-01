@@ -1,10 +1,10 @@
-<h1 align="center">💀 Devsecec | Hacker Ético em Formação 🧠</h1>
+<h1 align="center">💀 Devscec | Hacker Ético em Formação 🧠</h1>
 
 <p align="center">
   <b>Python | Linux | Redes | Hardening | Pentest</b>  
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Devsecec/Devscec/main/hacker.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/Devscec/Devscec/main/hacker.png" width="100%" />
 </p>
 
 ---
