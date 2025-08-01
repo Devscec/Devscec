@@ -25,7 +25,7 @@ Olá! Sou o Rafael (aka **Devsecec**) — entusiasta de cibersegurança, atualme
 ![Bash](https://img.shields.io/badge/Bash-Scripting-black?logo=gnubash)
 ![Nmap](https://img.shields.io/badge/Nmap-Scanner-blue)
 ![Lynis](https://img.shields.io/badge/Lynis-Audit-orange)
-![GitHub](https://img.shields.io/badge/GitHub-Devsecec-black?logo=github)
+![GitHub](https://img.shields.io/badge/GitHub-Devscec-black?logo=github)
 
 ---
 
