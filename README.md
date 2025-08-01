@@ -4,7 +4,7 @@
   <b>Python | Linux | Redes | Hardening | Pentest</b>  
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Devsecec/Devsecec/main/A_digital_graphic_design_banner_features_the_cyber.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/Devsecec/Devsecec/main/hacker.png" width="100%" />
 </p>
 
 ---
