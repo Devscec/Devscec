@@ -11,7 +11,7 @@
 
 ## 🧬 Sobre Mim
 
-Olá! Sou o Felipe (aka **Devsecec**) — entusiasta de cibersegurança, atualmente focado em **hardening Linux**, **análise de redes**, **engenharia reversa** e **projetos com segurança ofensiva real**.
+Olá! Sou o Rafael (aka **Devsecec**) — entusiasta de cibersegurança, atualmente focado em **hardening Linux**, **análise de redes**, **engenharia reversa** e **projetos com segurança ofensiva real**.
 
 💻 Desenvolvo projetos reais de segurança, como o `Pix-Seguro`, inspirado em uma tentativa real de golpe via QR Code.  
 🧠 Estou me especializando como hacker ético prático, documentando tudo no GitHub.
@@ -34,7 +34,7 @@ Olá! Sou o Felipe (aka **Devsecec**) — entusiasta de cibersegurança, atualme
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Devsecec&show_icons=true&theme=radical" alt="Devsecec Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devsecec&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devscec&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
 
 ---
